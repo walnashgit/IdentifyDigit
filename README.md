@@ -4,6 +4,8 @@
 
 Identify My Digit is a simple Android application that allows users to draw a digit on the screen and have it classified by a pre-trained machine learning model. The app uses a TensorFlow Lite model (MNIST) to recognize the handwritten digit (0-9).
 
+![App Screenshot](img.png)
+
 ## Features
 
 -   **Drawing Canvas:** A simple and intuitive canvas for users to draw digits.
@@ -14,7 +16,7 @@ Identify My Digit is a simple Android application that allows users to draw a di
 ## Tech Stack
 
 -   **UI:** Jetpack Compose
--   **Architecture:** MVI 
+-   **Architecture:** MVI
 -   **Dependency Injection:** Hilt
 -   **Machine Learning:** TensorFlow Lite
 
